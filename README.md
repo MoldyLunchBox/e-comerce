@@ -33,3 +33,4 @@ observables
 test friendly (unit test, n2n test)
 custom methods 
 lifecycle methods  (ngoninit)
+componant directives are props
